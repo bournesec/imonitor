@@ -1,0 +1,11 @@
+[package]
+name = "imonitor"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.100"
+chrono = "0.4.42"
+ctrlc = "3.5.1"
+pcap = "2.4.0"
+structopt = "0.3.26"
